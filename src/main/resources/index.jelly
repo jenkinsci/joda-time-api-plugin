@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin provides the <a href="https://github.com/JodaOrg/joda-time">Joda Time</a> APIs (v${revision}) for other plugins.
+</div>
