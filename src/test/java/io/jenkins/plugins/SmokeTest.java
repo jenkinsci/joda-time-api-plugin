@@ -1,6 +1,6 @@
 package io.jenkins.plugins;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeZone;
