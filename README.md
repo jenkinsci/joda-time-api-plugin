@@ -1,6 +1,6 @@
 # Jenkins Joda Time API Plugin
 
-[![Build Status](https://ci.jenkins.io/job/Plugins/job/joda-time-api-plugin/job/main/badge/icon)](https://ci.jenkins.io/job/Plugins/job/joda-time-api-plugin/job/main/)
+[![Build Status](https://ci.jenkins.io/buildStatus/icon?job=Plugins%2Fjoda-time-api-plugin%2Fmain)](https://ci.jenkins.io/job/Plugins/job/joda-time-api-plugin/job/main/)
 [![Jenkins Plugin](https://img.shields.io/jenkins/plugin/v/joda-time-api.svg)](https://plugins.jenkins.io/joda-time-api)
 [![GitHub release](https://img.shields.io/github/release/jenkinsci/joda-time-api-plugin.svg?label=changelog)](https://github.com/jenkinsci/joda-time-api-plugin/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/jenkinsci/joda-time-api-plugin)](https://github.com/jenkinsci/joda-time-api-plugin/blob/main/LICENSE.md)
